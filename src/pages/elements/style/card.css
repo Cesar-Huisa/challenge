@@ -1,0 +1,22 @@
+.taskcard {
+  background-color: #2d2f33;
+  border-radius: 20px;
+  padding:5px;
+  padding-left: 25px;
+}
+
+.taskcard h4 {
+  color: #fdfdfd;
+}
+.taskcard h5 {
+  color: #c9c9c9;
+}
+
+.taskcard .bi.bi-three-dots {
+  
+  margin-left: 10px;
+}
+
+.taskcard img {
+  border-radius: 50%;
+}

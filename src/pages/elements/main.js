@@ -4,13 +4,14 @@ import './style/main.css';
 import Topbar from './topbar';
 import Card from './card';
 
+
 function MainA() {
   return(
     <div className="row">
       <Topbar/>
       <div className="column">
         <h4>Working</h4>
-        <Card name="Cesar"  />
+        <Card name="Challenge" duedate="14-03-2022" status="Working" tags="react,javascript" ownid="1234567" />
         
       </div>
       <div className="column">
