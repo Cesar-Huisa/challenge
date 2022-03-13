@@ -5,7 +5,7 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #2d2f33;
   border-radius: 20px;
   overflow-x: hidden;
   
@@ -23,7 +23,9 @@
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #da584a;
+  
+  background: linear-gradient(90deg, rgba(45,47,51,1) 0%, #383034 100%);
 }
 
 .sidenav img {
