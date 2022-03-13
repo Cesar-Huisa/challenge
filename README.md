@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+**Note: The current state of the application does not require any configuration on the server or the configuration of any API**
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -19,18 +21,15 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Progress
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Almost all of the visual components in the application were completed, to emulate the data obtained from the server, data was inserted manually
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+However the functional components that interact with the backend are not active
 
-### `npm run eject`
+![Working](./img/fig1.png "screenshot od the app running")
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-
+- A design similar to that of the example is chosen for a better guide.
+- The sidebar has been shortened laterally to give more space for the task cards.
+- In this phase, the focus is more on the visual components.
